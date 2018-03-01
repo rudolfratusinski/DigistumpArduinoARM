@@ -95,8 +95,8 @@
               "host": "arm-linux-gnueabihf",
               "archiveFileName": "micronucleus-2.0a4-arm.tar.gz",
               "url": "https://github.com/rudolfratusinski/DigistumpArduinoARM/raw/master/micronucleus-2.0a4-arm.tar.gz",
-              "checksum": "SHA-256:7133c7bfc397ef641d082cc8bedb5a39649020ba45d7ef48afd4354b63c25ae9",
-              "size": "26049"
+              "checksum": "SHA-256:7c5a3bd68fcb119ca8e0f8d38a24d011d146a372fb3395f1f57e6476dedfb997",
+              "size": "26043"
             }
           ]
         }
